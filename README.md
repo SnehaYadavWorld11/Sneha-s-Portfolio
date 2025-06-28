@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experiences in web development.
 
-🔗 **Live Site**: [sneha-s-portfolio.vercel.app](https://sneha-s-portfolio-nu.vercel.app/)  
+🔗 **Live Site**: [sneha-s-portfolio.vercel.app](https://sneha-s-portfolio-psi.vercel.app/)  
 📂 **GitHub Repo**: [SnehaYadavWorld11/Sneha-s-Portfolio](https://github.com/SnehaYadavWorld11/Sneha-s-Portfolio)
 
 ---
@@ -29,6 +29,6 @@ This project showcases my skills, projects, and experiences in web development.
 
 ## 📸 Screenshots
 
-![Portfolio](https://github.com/SnehaYadavWorld11/Sneha-s-Portfolio/blob/b786438f10e612e28bef068c66b8d5a98c045245/src/assets/Screenshot%202025-06-27%20182829.png) 
+![Portfolio](https://github.com/SnehaYadavWorld11/Sneha-s-Portfolio/blob/f43daa298490f11c60e3c2d7dfcc421cff355174/src/assets/Screenshot%202025-06-27%20182829.png) 
 
 
