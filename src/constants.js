@@ -24,6 +24,7 @@ import netlifyLogo from "./assets/tech_logo/netlify.png";
 import vercelLogo from "./assets/tech_logo/vercel.png";
 
 import smartbridge from "./assets/company_logo/smartbridge.png";
+import google from "./assets/company_logo/google.png";
 import vitbhopaltcs from "./assets/company_logo/vitbhopaltcs.jpeg";
 import mpboardd from "./assets/company_logo/mpboardd.png";
 
@@ -110,6 +111,23 @@ export const experiences = [
   },
   {
     id: 1,
+    img: google,
+    role: "",
+    company: "Google Arcade",
+    date: "Mar 2025 - May 2025",
+    desc: "Thrilled to share that I’ve leveled up to the Arcade Ranger Tier in The Skills Boost Arcade Season 1 2025 This journey has been an incredible opportunity to sharpen my cloud skills, earn badges, and connect with an amazing community of learners.",
+    skills: [
+      "Google Cloud",
+      "Gemini API in Vertex AI",
+      "AWS",
+      "AppSheet",
+      "API Gateway",
+      "Google Sheets",
+      "NLP API",
+    ],
+  },
+  {
+    id: 2,
     img: vitbhopaltcs,
     role: "Volunteer – TCS Campus Placement Drive",
     company: "Tata Consultancy Services",
@@ -123,7 +141,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: mpboardd,
     role: "High-Achieving Student & District Topper",
     company: "",
