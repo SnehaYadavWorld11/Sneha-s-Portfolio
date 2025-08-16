@@ -34,6 +34,7 @@ import ShopEZ from "./assets/work_logo/ShopEZ.png";
 import Kaarya from "./assets/work_logo/Kaarya.png";
 import tictactoe from "./assets/work_logo/tictactoe.png";
 import snapscout from './assets/work_logo/snapscout.png';
+import StudyShare from './assets/work_logo/StudyShare.png';
 // import npmLogo from './assets/work_logo/npm.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
@@ -183,8 +184,29 @@ export const projects = [
       "https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render",
     webapp: "https://shopez-ecommerce-deploy-to-render-1.onrender.com",
   },
-  {
+    {
     id: 1,
+    title: "Study Share",
+    description:
+      "StudyShare is a secure MERN stack application for students to upload, organize, and share notes with JWT authentication, multi-file support, and social sharing. Built with React (Vite), Tailwind CSS, Express.js, and MongoDB, it offers robust note management, previews, and analytics.",
+    image: StudyShare,
+    tags: [
+      "HTML",
+      "Tailwind",
+      "JavaScript",
+      "Axios",
+      "Multer",
+      "JWT",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+    ],
+    github:
+      "https://github.com/SnehaYadavWorld11/Notes_Web",
+    webapp: "https://notes-sharing-web-world.vercel.app",
+  },
+  {
+    id: 2,
     title: "Kaarya",
     description:
       "A minimal yet fully functional web-based To-Do list application that allows users to manage daily tasks efficiently. Built using HTML, CSS, and JavaScript with stoting data using sessionStorage, it ensures whenever we refresh our web page data not gone.",
@@ -194,7 +216,7 @@ export const projects = [
     webapp: "https://add-your-kaarya.netlify.app/",
   },
     {
-    id: 2,
+    id: 3,
     title: "SnapScout – Image Finder",
     description:
       "SnapScout is a modern and responsive web application that allows users to search for high-quality images using the Unsplash API. Just enter a keyword and discover beautiful images with photographer info, descriptions, and more.",
@@ -204,7 +226,7 @@ export const projects = [
     webapp: "https://snapscout.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "MindOverMarks",
     description:
       "A classic Tic Tac Toe game built using HTML, CSS, and JavaScript.Challenge a friend, take turns, and see who wins!",
